@@ -1,0 +1,503 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1379; Version 1909; 64bit' Language: 'pt' Physical Memory: 16333 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+I:\Unity\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+I:/Curso/Acelerometro2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51481
+Successfully changed project path to: I:/Curso/Acelerometro2
+I:/Curso/Acelerometro2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path I:/Unity/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path I:/Curso/Acelerometro2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'I:/Unity/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'I:/Unity/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'I:/Unity/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56104
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: I:/Unity/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000967 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 21.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.869 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000616 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1547.
+Total: 1.748200 ms (FindLiveObjects: 0.196000 ms CreateObjectMapping: 0.037700 ms MarkObjects: 1.450500 ms  DeleteObjects: 0.063200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a53cec2b9f2b2ddb5a9a44e08d602a') in 0.047829 seconds
+  Import took 0.069496 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.641 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.6 MB.
+System memory in use after: 56.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1549.
+Total: 1.454000 ms (FindLiveObjects: 0.149000 ms CreateObjectMapping: 0.025500 ms MarkObjects: 1.264100 ms  DeleteObjects: 0.014400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 342.351819 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5283828124ebb73ab6e6bac421f3d88') in 0.009418 seconds
+  Import took 0.012027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075455 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5283828124ebb73ab6e6bac421f3d88') in 0.002333 seconds
+  Import took 0.006194 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.6 MB.
+System memory in use after: 56.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1551.
+Total: 1.876900 ms (FindLiveObjects: 0.182200 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.638600 ms  DeleteObjects: 0.022200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 6.762817 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850cda7f5afe62af08c58af25968d64f') in 0.004357 seconds
+  Import took 0.021760 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000747 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1553.
+Total: 1.505400 ms (FindLiveObjects: 0.172500 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.291500 ms  DeleteObjects: 0.013200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 5.284565 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c6ca3ae80a947df59a1ec9be838f13') in 0.005000 seconds
+  Import took 0.007324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028553 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c6ca3ae80a947df59a1ec9be838f13') in 0.002763 seconds
+  Import took 0.005409 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.666 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 1.508600 ms (FindLiveObjects: 0.185800 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.280300 ms  DeleteObjects: 0.013200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 14.518234 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb65f77253b3496bb71c0b48ebc8d958') in 0.004190 seconds
+  Import took 0.039231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.739288 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e6ed1161aa4a791f9c898b47ae86a8') in 0.002457 seconds
+  Import took 0.004398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001271 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e6ed1161aa4a791f9c898b47ae86a8') in 0.002185 seconds
+  Import took 0.003561 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000560 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.672 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 3.046600 ms (FindLiveObjects: 0.345700 ms CreateObjectMapping: 0.041900 ms MarkObjects: 2.631500 ms  DeleteObjects: 0.025800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 20.594883 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a0d329b30fe02ba5f2195654000f49') in 0.004432 seconds
+  Import took 0.006643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027948 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a0d329b30fe02ba5f2195654000f49') in 0.002151 seconds
+  Import took 0.004188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.486461 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfefec1a092decf02320b20dbd9a104') in 0.002481 seconds
+  Import took 0.004613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000938 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfefec1a092decf02320b20dbd9a104') in 0.002119 seconds
+  Import took 0.004017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.046001 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0899f6a31589055655b84e2ad0d488') in 0.002209 seconds
+  Import took 0.004403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067744 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0899f6a31589055655b84e2ad0d488') in 0.002079 seconds
+  Import took 0.004385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.479378 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2004f5e5bce1be892100f5893bfa6479') in 0.002330 seconds
+  Import took 0.004345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001271 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2004f5e5bce1be892100f5893bfa6479') in 0.002306 seconds
+  Import took 0.003917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.290009 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0852aa4bc8238adfcf76f15e9ebe3355') in 0.002244 seconds
+  Import took 0.004213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016368 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0852aa4bc8238adfcf76f15e9ebe3355') in 0.002175 seconds
+  Import took 0.004532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.123039 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a41957af708506a248ec3870af2b66') in 0.002308 seconds
+  Import took 0.004279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001435 seconds.
+  path: Assets/quadrado.cs
+  artifactKey: Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quadrado.cs using Guid(8611b3c049c633a4cb2ee6200968aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a41957af708506a248ec3870af2b66') in 0.002346 seconds
+  Import took 0.004137 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.658 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 1.483000 ms (FindLiveObjects: 0.208300 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.234500 ms  DeleteObjects: 0.011300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.824600 ms (FindLiveObjects: 0.237900 ms CreateObjectMapping: 0.035300 ms MarkObjects: 1.535200 ms  DeleteObjects: 0.014800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000629 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.631 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 1.426000 ms (FindLiveObjects: 0.141000 ms CreateObjectMapping: 0.025100 ms MarkObjects: 1.247700 ms  DeleteObjects: 0.011300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.637 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 1.559000 ms (FindLiveObjects: 0.153900 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.361700 ms  DeleteObjects: 0.013600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.666 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 1.509300 ms (FindLiveObjects: 0.144100 ms CreateObjectMapping: 0.030100 ms MarkObjects: 1.321200 ms  DeleteObjects: 0.012600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
